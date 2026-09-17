@@ -9,6 +9,8 @@ The thresholds were based on information found in previous studies and were furt
 observations made upon visualisation of a large independent dataset with colour preference data (N = 8,302; Ouznadji et al., 2026).
 
 colour_categorisation_script.R is the pre-registered script
+
+
 colour_categorisation_script_updated.R is the updated version, with improved thershold values for the BLUE/PURPLE border. 
 
 
